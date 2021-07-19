@@ -14,5 +14,8 @@ The following results was made after removing the 9th grade from Thomas High Sch
 * How does replacing the ninth-grade scores affect the following:
   1. Math and reading scores by grade: Very small change as the only value affected is the 9th grade of THS which is set to NAN or 0
   2. Scores by school spending: Thomas High School still has a spending of $630 - $644 which dropped this category on all 3 percentages by about 7% each
-  3. Scores by school size: Thomas High School went from 1635 to 1174 in school size which ended up dropping all 3 of their percentages for medium sized schools
-  4. Scores by school type: 
+  3. Scores by school size: Thomas High School went from 1635 to 1174 in school size which ended up dropping all 3 of their percentages for medium sized schools by about 5%
+  4. Scores by school type: Thomas High School was a charter school which dropped all 3 percentages for charter schools by about 4% each
+ 
+# Summary
+In conclusion we can see that after removing the 9th grade Thomas High School dropped from 2nd on the district list to 8th. Their overall passing percentage went from a 91% to 65%. Their spending per student dropped around $200. Finally their total student count dropped from 1635 students to 1174. 
